@@ -467,36 +467,36 @@ body {
 	color: var(--blue);
 }
 #content main .box-info li:nth-child(5) .bx {
-	background: var(--light-yellow);
-	color: var(--yellow);
+	background: var(--light-blue);
+	color: var(--blue);
 }
 #content main .box-info li:nth-child(6) .bx {
-	background: var(--light-orange);
-	color: var(--orange);
+	background: var(--light-yellow);
+	color: var(--yellow);
 }
 #content main .box-info li:nth-child(7) .bx {
-	background: var(--light-blue);
-	color: var(--blue);
+	background: var(--light-orange);
+	color: var(--orange);
 }
 #content main .box-info li:nth-child(8) .bx {
-	background: var(--light-yellow);
-	color: var(--yellow);
-}
-#content main .box-info li:nth-child(9) .bx {
-	background: var(--light-orange);
-	color: var(--orange);
-}
-#content main .box-info li:nth-child(10) .bx {
 	background: var(--light-blue);
 	color: var(--blue);
 }
-#content main .box-info li:nth-child(11) .bx {
+#content main .box-info li:nth-child(9) .bx {
+	background: var(--light-blue);
+	color: var(--blue);
+}
+#content main .box-info li:nth-child(10) .bx {
 	background: var(--light-yellow);
 	color: var(--yellow);
 }
-#content main .box-info li:nth-child(12) .bx {
+#content main .box-info li:nth-child(11) .bx {
 	background: var(--light-orange);
 	color: var(--orange);
+}
+#content main .box-info li:nth-child(12) .bx {
+	background: var(--light-blue);
+	color: var(--blue);
 }
 #content main .box-info li:nth-child(13) .bx {
 	background: var(--light-blue);
@@ -510,6 +510,42 @@ body {
 	background: var(--light-orange);
 	color: var(--orange);
 }
+#content main .box-info li:nth-child(16) .bx {
+	background: var(--light-blue);
+	color: var(--blue);
+}
+#content main .box-info li:nth-child(17) .bx {
+	background: var(--light-blue);
+	color: var(--blue);
+}
+#content main .box-info li:nth-child(18) .bx {
+	background: var(--light-yellow);
+	color: var(--yellow);
+}
+#content main .box-info li:nth-child(19) .bx {
+	background: var(--light-orange);
+	color: var(--orange);
+}
+#content main .box-info li:nth-child(20) .bx {
+	background: var(--light-blue);
+	color: var(--blue);
+}
+#content main .box-info li:nth-child(21) .bx {
+	background: var(--light-blue);
+	color: var(--blue);
+}
+#content main .box-info li:nth-child(22) .bx {
+	background: var(--light-yellow);
+	color: var(--yellow);
+}
+#content main .box-info li:nth-child(23) .bx {
+	background: var(--light-orange);
+	color: var(--orange);
+}
+#content main .box-info li:nth-child(24) .bx {
+	background: var(--light-blue);
+	color: var(--blue);
+}
 #content main .box-info li .text h3 {
 	font-size: 15px;
 	font-weight: 600;
@@ -517,6 +553,11 @@ body {
 }
 #content main .box-info li .text p {
 	color: var(--dark);	
+}
+#content h1{
+	text-align: center;
+	margin-top: 10px;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 
